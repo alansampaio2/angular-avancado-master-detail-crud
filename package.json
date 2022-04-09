@@ -23,7 +23,7 @@
     "bootstrap": "^4.3.1",
     "currency-formatter": "^1.5.4",
     "jquery": "^3.4.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "primeng": "^8.0.0",
     "rxjs": "~6.4.0",
     "toastr": "^2.1.4",
